@@ -1,1 +1,1 @@
-# ScholarHat-.Net/C#-workshop
+# .Net
